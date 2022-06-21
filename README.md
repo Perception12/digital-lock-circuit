@@ -3,7 +3,7 @@
 A mini project for simulating process of locking and unlocking a door digitally using a password.
 
 > ## Components
-
+>
 > - Arduino UNO R3
 > - 16x2 LCD
 > - 4x4 Keypad
@@ -23,7 +23,7 @@ A mini project for simulating process of locking and unlocking a door digitally 
 ![circuit image on breadboard](/initMode.jpg)
 
 > ## Libraries Used
-
+>
 > - LiquidCystal
 > - Keypad
 
